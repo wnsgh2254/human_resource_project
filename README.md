@@ -12,4 +12,5 @@ Featuring eye-catching dashboards offer crucial HR metrics like employee turnove
 
 ## Data Visualization:
 
-
+![hr_visual_1](https://github.com/wnsgh2254/human_resource_project/assets/70765479/b5041022-a1f4-4f3e-8063-afd3fb5517ae)
+![hr_visual_2](https://github.com/wnsgh2254/human_resource_project/assets/70765479/ac780036-51c7-4a11-a21a-4e67d0adf20f)
