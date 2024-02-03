@@ -6,7 +6,7 @@ Featuring eye-catching dashboards offer crucial HR metrics like employee turnove
 
 **Data** - US HR Data with over 22000 rows from the year 2000 to 2020.
 
-**Data Cleaning & Analysis** - MS SQL server
+**Data Cleaning & Analysis** - MS SQL server (please check out the attached SQL file)
 
 **Data Visualization** - PowerBI
 
@@ -48,3 +48,9 @@ Featuring eye-catching dashboards offer crucial HR metrics like employee turnove
 
 11)	How have employee hire counts varied over time?
   - Employee hire counts have increased over the years
+
+## 🚫 Limitations
+
+- Some "termdates" data were far into future. I assumed that these data are typo or just wrong data. Therefore, The only dates used were those less than or equal to the current date.
+
+😁**Thanks for checking out my project!**
